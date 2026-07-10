@@ -24,7 +24,7 @@ flowchart LR
     D --> E[Pan Servo]
     D --> F[Tilt Servo]
 ```
-<img src="images/system-diagram.png" alt="Object-tracking system diagram" width="3000">
+<img src="images/system-diagram.png" alt="Object-tracking system diagram" width="300">
 
 1. Grove Vision AI V2 detects the object.
 2. It sends the object's position to the XIAO.
