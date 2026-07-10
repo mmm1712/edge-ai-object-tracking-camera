@@ -7,7 +7,7 @@
 ![AI](https://img.shields.io/badge/AI-Grove%20Vision%20AI%20V2-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-<img src="images/upgraded-camera.jpg" alt="Upgraded object-tracking camera" width="600">
+<img src="images/upgraded-camera.jpg" alt="Upgraded object-tracking camera" width="400">
 
 ## Why I Rebuilt It
 
