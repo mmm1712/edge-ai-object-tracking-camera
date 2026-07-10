@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Arduino build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*~
