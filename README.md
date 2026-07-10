@@ -1,13 +1,6 @@
 # Local Edge AI Object-Tracking Camera
 
-> A small pan/tilt camera that detects an object and turns to follow it — without sending video to a laptop.
-
-![Project status](https://img.shields.io/badge/status-working%20prototype-orange)
-![Platform](https://img.shields.io/badge/platform-XIAO%20ESP32--S3-blue)
-![AI](https://img.shields.io/badge/AI-Grove%20Vision%20AI%20V2-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
-
-<img src="images/upgraded-camera.jpg" alt="Upgraded object-tracking camera" width="400">
+<img src="images/upgraded-camera.jpg" alt="Upgraded object-tracking camera" width="300">
 
 ## Why I Rebuilt It
 
