@@ -115,7 +115,7 @@ These values may need small adjustments for a different pan/tilt structure.
 
 ### Original Version
 
-![Original ESP32-CAM tracking camera](images/original-camera.jpg)
+<img src="images/original-camera.jpg" alt="Original camera" width="300">
 
 The original version streamed video to my laptop, where a YOLO model detected the object.
 
