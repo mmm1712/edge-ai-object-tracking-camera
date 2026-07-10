@@ -16,7 +16,7 @@ I also redesigned the 3D-printed camera body to fit the new hardware.
 
 ## How It Works
 
-<img src="images/system-diagram.png" alt="Object-tracking system diagram" width="400">
+<img src="images/system-diagram.png" alt="Object-tracking system diagram" width="480">
 
 1. Grove Vision AI V2 detects the object.
 2. It sends the object's position to the XIAO.
