@@ -16,14 +16,6 @@ I also redesigned the 3D-printed camera body to fit the new hardware.
 
 ## How It Works
 
-```mermaid
-flowchart LR
-    A[OV5647 Camera] --> B[Grove Vision AI V2]
-    B -->|Object X and Y position| C[XIAO ESP32-S3]
-    C --> D[PCA9685 Servo Driver]
-    D --> E[Pan Servo]
-    D --> F[Tilt Servo]
-```
 <img src="images/system-diagram.png" alt="Object-tracking system diagram" width="300">
 
 1. Grove Vision AI V2 detects the object.
