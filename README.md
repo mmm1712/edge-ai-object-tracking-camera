@@ -12,7 +12,7 @@ In this upgraded version, object detection runs locally on Grove Vision AI V2. T
 
 I also redesigned the 3D-printed camera body to fit the new hardware.
 
-![OpenSCAD assembly of the camera structure](images/cad-assembly.png)
+<img src="images/cad-assembly.png" alt="OpenSCAD assembly" width="300">
 
 ## How It Works
 
@@ -24,7 +24,7 @@ flowchart LR
     D --> E[Pan Servo]
     D --> F[Tilt Servo]
 ```
-![Object-tracking system diagram](images/system-diagram.png)
+<img src="images/system-diagram.png" alt="Object-tracking system diagram" width="3000">
 
 1. Grove Vision AI V2 detects the object.
 2. It sends the object's position to the XIAO.
@@ -51,7 +51,7 @@ The upgraded prototype can now detect an object, decide where to move, and physi
 - Custom 3D-printed pan/tilt structure
 - Jumper wires and mounting hardware
 
-![Main hardware used in the project](images/hardware.jpg)
+<img src="images/hardware.jpg" alt="Main hardware" width="300">
 
 ## Servo Control
 
