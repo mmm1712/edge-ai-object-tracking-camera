@@ -109,8 +109,6 @@ The most important values are grouped near the beginning of the sketch:
 
 These values may need small adjustments for a different pan/tilt structure.
 
-> Note: For my setup, I changed the SSCMA event timeout to 120 ms. Different library versions or timeout settings may affect the tracking speed.
-
 ## Original Version vs. Upgraded Version
 
 ### Original Version
